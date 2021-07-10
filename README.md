@@ -7,6 +7,9 @@ v4 removes a timer in the program.
 
 Changelog:
 v2
+
 v3: code rewrote
+
 v4A: timer taken away
+
 v4B: timer taken away and close button changed
